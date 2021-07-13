@@ -1,0 +1,1 @@
+пример показа фото https://oxyrud.github.io/showcard/
